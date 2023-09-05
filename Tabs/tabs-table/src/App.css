@@ -1,0 +1,23 @@
+/* Tabs.css */
+
+.tab-content {
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+
+.tab-content.hidden {
+  opacity: 0;
+}
+
+.tab {
+  cursor: pointer;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  transition: background-color 0.3s ease;
+}
+
+.tab:hover {
+  background-color: #e0e0e0;
+}
