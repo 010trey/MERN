@@ -1,0 +1,9 @@
+    /* src/components/StyledWord.css */
+    .styled-word {
+        padding: 10px;
+        border: 2px solid black;
+        border-radius: 5px;
+        display: inline-block;
+        margin: 5px;
+    }
+    
