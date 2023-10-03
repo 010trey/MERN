@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.box{
+    display: flex;
+    display:;
+}
+
+.box2{
+    display: flex;
+}
+
+.box3{
+    display: flex;
+}

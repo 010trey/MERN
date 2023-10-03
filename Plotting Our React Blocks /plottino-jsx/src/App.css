@@ -4,7 +4,7 @@
   max-width: 800px;
 }
 
-.header {
+.Header {
   background-color: #333;
   color: white;
   padding: 10px;
@@ -32,7 +32,7 @@
 }
 
 
-.main {
+.Main {
   display: flex;
   justify-content: space-between;
   padding: 20px;
